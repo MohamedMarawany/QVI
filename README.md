@@ -21,6 +21,9 @@ QVI Analytics is a data analysis project focused on understanding customer purch
 Below is an example of the interactive dashboard created using Power BI:
 
 ![Overall Trends Dashboard](Images/Overall Trends.png)
+![Overall Trends Dashboard]([Images/Overall Trends.png](https://github.com/MohamedMarawany/QVI/blob/main/Images/Overall%20Trends.png
+))
+
 
 ## Getting Started
 1. **Clone the repository:**
