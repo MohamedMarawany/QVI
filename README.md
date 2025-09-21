@@ -47,6 +47,7 @@ QVI/
 │   └── important_customer.csv
 ├── QVI_Insghits.pbix
 ├── QVI_Insghits.pdf
+├── QVI_Story-Telling.pbix
 ├── QVI.docx
 ├── QVI.pdf
 ```
